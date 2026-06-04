@@ -33,5 +33,4 @@ SL_ATR_MULT = 1.5
 TP_ATR_MULT = 2.0
 
 # Multi-timeframe
-TIMEFRAMES = ["1m", "5m", "15m", "1h"]
-
+TIMEFRAMES = ["1m", "5m", "15m", "1h", "4h", "1d"]
