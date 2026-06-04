@@ -34,3 +34,4 @@ TP_ATR_MULT = 2.0
 
 # Multi-timeframe
 TIMEFRAMES = ["1m", "5m", "15m", "1h"]
+
